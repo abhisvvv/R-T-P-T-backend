@@ -1,0 +1,1668 @@
+[
+  {
+    "routeId": "IND-001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "C-01",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Advanced Academy",
+    "endStop": "Rajwada",
+    "stops": [
+      "Advanced Academy",
+      "Rajwada"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-002",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "C-01",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Rajwada",
+    "endStop": "Advanced Academy",
+    "stops": [
+      "Rajwada",
+      "Advanced Academy"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-003",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "C-02",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Netralay",
+    "endStop": "Sawariya Temple",
+    "stops": [
+      "Netralay",
+      "Sawariya Temple"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-004",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "C-02",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Sawariya Temple",
+    "endStop": "Netralay",
+    "stops": [
+      "Sawariya Temple",
+      "Netralay"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-005",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "C-03",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Hatod",
+    "endStop": "Tejaji Nagar",
+    "stops": [
+      "Hatod",
+      "Tejaji Nagar"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-006",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "C-03",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Tejaji Nagar",
+    "endStop": "Hatod",
+    "stops": [
+      "Tejaji Nagar",
+      "Hatod"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-007",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "C-04",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Arvindo Hospital",
+    "endStop": "Silver Spring",
+    "stops": [
+      "Arvindo Hospital",
+      "Silver Spring"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-008",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "C-04",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Silver Spring",
+    "endStop": "Arvindo Hospital",
+    "stops": [
+      "Silver Spring",
+      "Arvindo Hospital"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-1",
+    "vehicleType": "Electric",
+    "direction": "outbound",
+    "startStop": "CAT",
+    "endStop": "Pitra Parvat",
+    "stops": [
+      "CAT",
+      "Pitra Parvat"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-1",
+    "vehicleType": "Electric",
+    "direction": "return",
+    "startStop": "Pitra Parvat",
+    "endStop": "CAT",
+    "stops": [
+      "Pitra Parvat",
+      "CAT"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-011",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-2",
+    "vehicleType": "Electric",
+    "direction": "outbound",
+    "startStop": "Gangwal Bus Stand",
+    "endStop": "MR-10",
+    "stops": [
+      "Gangwal Bus Stand",
+      "MR-10"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-012",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-2",
+    "vehicleType": "Electric",
+    "direction": "return",
+    "startStop": "MR-10",
+    "endStop": "Gangwal Bus Stand",
+    "stops": [
+      "MR-10",
+      "Gangwal Bus Stand"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-013",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-3",
+    "vehicleType": "Electric",
+    "direction": "outbound",
+    "startStop": "Hawa Bangla",
+    "endStop": "Khajrana Mandir",
+    "stops": [
+      "Hawa Bangla",
+      "Khajrana Mandir"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-014",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-3",
+    "vehicleType": "Electric",
+    "direction": "return",
+    "startStop": "Khajrana Mandir",
+    "endStop": "Hawa Bangla",
+    "stops": [
+      "Khajrana Mandir",
+      "Hawa Bangla"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-015",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-4",
+    "vehicleType": "Electric",
+    "direction": "outbound",
+    "startStop": "Silicon City Gate",
+    "endStop": "Teen Imli",
+    "stops": [
+      "Silicon City Gate",
+      "Teen Imli"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-4",
+    "vehicleType": "Electric",
+    "direction": "return",
+    "startStop": "Teen Imli",
+    "endStop": "Silicon City Gate",
+    "stops": [
+      "Teen Imli",
+      "Silicon City Gate"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-017",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-5",
+    "vehicleType": "Electric",
+    "direction": "outbound",
+    "startStop": "Hawa Bangla",
+    "endStop": "Vaishnav College",
+    "stops": [
+      "Hawa Bangla",
+      "Vaishnav College"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-5",
+    "vehicleType": "Electric",
+    "direction": "return",
+    "startStop": "Vaishnav College",
+    "endStop": "Hawa Bangla",
+    "stops": [
+      "Vaishnav College",
+      "Hawa Bangla"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-019",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-9",
+    "vehicleType": "Electric",
+    "direction": "outbound",
+    "startStop": "Palasiya",
+    "endStop": "Rajwada",
+    "stops": [
+      "Palasiya",
+      "Rajwada"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-020",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "E-9",
+    "vehicleType": "Electric",
+    "direction": "return",
+    "startStop": "Rajwada",
+    "endStop": "Palasiya",
+    "stops": [
+      "Rajwada",
+      "Palasiya"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-021",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-07",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Bijalpur",
+    "endStop": "Jawahar Tekri",
+    "stops": [
+      "Bijalpur",
+      "Jawahar Tekri"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-022",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-07",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Jawahar Tekri",
+    "endStop": "Bijalpur",
+    "stops": [
+      "Jawahar Tekri",
+      "Bijalpur"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-023",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-10",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Teen Imli",
+    "endStop": "Tigariya badshah",
+    "stops": [
+      "Teen Imli",
+      "Tigariya badshah"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-024",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-10",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Tigariya badshah",
+    "endStop": "Teen Imli",
+    "stops": [
+      "Tigariya badshah",
+      "Teen Imli"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-025",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-11",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Bhagirathpura",
+    "endStop": "Choitharam Mandi",
+    "stops": [
+      "Bhagirathpura",
+      "Choitharam Mandi"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-026",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-11",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Choitharam Mandi",
+    "endStop": "Bhagirathpura",
+    "stops": [
+      "Choitharam Mandi",
+      "Bhagirathpura"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-027",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-12",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Advanced Academy",
+    "endStop": "Chhoti gwaltoli",
+    "stops": [
+      "Advanced Academy",
+      "Chhoti gwaltoli"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-028",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-12",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Chhoti gwaltoli",
+    "endStop": "Advanced Academy",
+    "stops": [
+      "Chhoti gwaltoli",
+      "Advanced Academy"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-029",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-15",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Khajrana Mandir",
+    "endStop": "Sangam Nagar",
+    "stops": [
+      "Khajrana Mandir",
+      "Sangam Nagar"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-030",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-15",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Sangam Nagar",
+    "endStop": "Khajrana Mandir",
+    "stops": [
+      "Sangam Nagar",
+      "Khajrana Mandir"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-031",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-17",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Railway Station",
+    "endStop": "Toll Naka",
+    "stops": [
+      "Railway Station",
+      "Toll Naka"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-032",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-17",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Toll Naka",
+    "endStop": "Railway Station",
+    "stops": [
+      "Toll Naka",
+      "Railway Station"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-033",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-18",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Dewas Naka",
+    "endStop": "Reti Mandi",
+    "stops": [
+      "Dewas Naka",
+      "Reti Mandi"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-034",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-18",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Reti Mandi",
+    "endStop": "Dewas Naka",
+    "stops": [
+      "Reti Mandi",
+      "Dewas Naka"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-035",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-19",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Bhawarkuan",
+    "endStop": "IIT Simrol",
+    "stops": [
+      "Bhawarkuan",
+      "IIT Simrol"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-036",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-19",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "IIT Simrol",
+    "endStop": "Bhawarkuan",
+    "stops": [
+      "IIT Simrol",
+      "Bhawarkuan"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-037",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-20",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Rajwada",
+    "endStop": "Shiv Chowk Rangwasa",
+    "stops": [
+      "Rajwada",
+      "Shiv Chowk Rangwasa"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-038",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-20",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Shiv Chowk Rangwasa",
+    "endStop": "Rajwada",
+    "stops": [
+      "Shiv Chowk Rangwasa",
+      "Rajwada"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-039",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-22A",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Gangwal Bus Stand",
+    "endStop": "Lakhani By Pass",
+    "stops": [
+      "Gangwal Bus Stand",
+      "Lakhani By Pass"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-040",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-22A",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Lakhani By Pass",
+    "endStop": "Gangwal Bus Stand",
+    "stops": [
+      "Lakhani By Pass",
+      "Gangwal Bus Stand"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-041",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-22",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Index Medical College",
+    "endStop": "Indore Railway stn",
+    "stops": [
+      "Index Medical College",
+      "Indore Railway stn"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-042",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-22",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Indore Railway stn",
+    "endStop": "Index Medical College",
+    "stops": [
+      "Indore Railway stn",
+      "Index Medical College"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-043",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-23",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Bhawarkua",
+    "endStop": "Kampel",
+    "stops": [
+      "Bhawarkua",
+      "Kampel"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-044",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-23",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Kampel",
+    "endStop": "Bhawarkua",
+    "stops": [
+      "Kampel",
+      "Bhawarkua"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-045",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-24",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Bhawarkua",
+    "endStop": "Hatod",
+    "stops": [
+      "Bhawarkua",
+      "Hatod"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-046",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-24",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Hatod",
+    "endStop": "Bhawarkua",
+    "stops": [
+      "Hatod",
+      "Bhawarkua"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-047",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-25",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Nipania",
+    "endStop": "Rajwada",
+    "stops": [
+      "Nipania",
+      "Rajwada"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-048",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-25",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Rajwada",
+    "endStop": "Nipania",
+    "stops": [
+      "Rajwada",
+      "Nipania"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-049",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-26A",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Indore Railway Station",
+    "endStop": "Sanwer",
+    "stops": [
+      "Indore Railway Station",
+      "Sanwer"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-050",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-26A",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Sanwer",
+    "endStop": "Indore Railway Station",
+    "stops": [
+      "Sanwer",
+      "Indore Railway Station"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-051",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-27",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Dewas Naka",
+    "endStop": "Sirpur Lake",
+    "stops": [
+      "Dewas Naka",
+      "Sirpur Lake"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-052",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-27",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Sirpur Lake",
+    "endStop": "Dewas Naka",
+    "stops": [
+      "Sirpur Lake",
+      "Dewas Naka"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-053",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-28",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Mhow Naka",
+    "endStop": "Bhicholi Hapsi",
+    "stops": [
+      "Mhow Naka",
+      "Bhicholi Hapsi"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-054",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-28",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Bhicholi Hapsi",
+    "endStop": "Mhow Naka",
+    "stops": [
+      "Bhicholi Hapsi",
+      "Mhow Naka"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-055",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-29",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Tigariya Badshah",
+    "endStop": "Shivalik Parisar",
+    "stops": [
+      "Tigariya Badshah",
+      "Shivalik Parisar"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-056",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-29",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Shivalik Parisar",
+    "endStop": "Tigariya Badshah",
+    "stops": [
+      "Shivalik Parisar",
+      "Tigariya Badshah"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-057",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-31",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Arvindo",
+    "endStop": "Mhow Naka",
+    "stops": [
+      "Arvindo",
+      "Mhow Naka"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-058",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-31",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Mhow Naka",
+    "endStop": "Arvindo",
+    "stops": [
+      "Mhow Naka",
+      "Arvindo"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-059",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-32",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Chhota Bangarda",
+    "endStop": "M.Y Hospital",
+    "stops": [
+      "Chhota Bangarda",
+      "M.Y Hospital"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-060",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-32",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "M.Y Hospital",
+    "endStop": "Chhota Bangarda",
+    "stops": [
+      "M.Y Hospital",
+      "Chhota Bangarda"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-061",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-33",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Bangali Ringroad",
+    "endStop": "Gandhi Nagar",
+    "stops": [
+      "Bangali Ringroad",
+      "Gandhi Nagar"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-062",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-33",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Gandhi Nagar",
+    "endStop": "Bangali Ringroad",
+    "stops": [
+      "Gandhi Nagar",
+      "Bangali Ringroad"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-063",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-34",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Arvindo hospital",
+    "endStop": "Silver City",
+    "stops": [
+      "Arvindo hospital",
+      "Silver City"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-064",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-34",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Silver City",
+    "endStop": "Arvindo hospital",
+    "stops": [
+      "Silver City",
+      "Arvindo hospital"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-065",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-34",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Nayta Mundla",
+    "endStop": "Rajwada",
+    "stops": [
+      "Nayta Mundla",
+      "Rajwada"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-066",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-34",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Rajwada",
+    "endStop": "Nayta Mundla",
+    "stops": [
+      "Rajwada",
+      "Nayta Mundla"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-067",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-35",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Arvindo",
+    "endStop": "Medicaps",
+    "stops": [
+      "Arvindo",
+      "Medicaps"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-068",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-35",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Medicaps",
+    "endStop": "Arvindo",
+    "stops": [
+      "Medicaps",
+      "Arvindo"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-069",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-36",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Mahak Vatika",
+    "endStop": "Rajwada",
+    "stops": [
+      "Mahak Vatika",
+      "Rajwada"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-070",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-36",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Rajwada",
+    "endStop": "Mahak Vatika",
+    "stops": [
+      "Rajwada",
+      "Mahak Vatika"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-071",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-37",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Gandhi Nagar",
+    "endStop": "Seva Kunj",
+    "stops": [
+      "Gandhi Nagar",
+      "Seva Kunj"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-072",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-37",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Seva Kunj",
+    "endStop": "Gandhi Nagar",
+    "stops": [
+      "Seva Kunj",
+      "Gandhi Nagar"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-073",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-38",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Jawahar Tekri",
+    "endStop": "Teen Imli",
+    "stops": [
+      "Jawahar Tekri",
+      "Teen Imli"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-074",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-38",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Teen Imli",
+    "endStop": "Jawahar Tekri",
+    "stops": [
+      "Teen Imli",
+      "Jawahar Tekri"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-075",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-4",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Chhota Bangarda",
+    "endStop": "Tejaji Nagar",
+    "stops": [
+      "Chhota Bangarda",
+      "Tejaji Nagar"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-076",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-4",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Tejaji Nagar",
+    "endStop": "Chhota Bangarda",
+    "stops": [
+      "Tejaji Nagar",
+      "Chhota Bangarda"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-077",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-6",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Rajwada",
+    "endStop": "Tejaji Nagar",
+    "stops": [
+      "Rajwada",
+      "Tejaji Nagar"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-078",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "M-6",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Tejaji Nagar",
+    "endStop": "Rajwada",
+    "stops": [
+      "Tejaji Nagar",
+      "Rajwada"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-079",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "N-13",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Apollo DB City",
+    "endStop": "Hatod",
+    "stops": [
+      "Apollo DB City",
+      "Hatod"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-080",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "N-13",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Hatod",
+    "endStop": "Apollo DB City",
+    "stops": [
+      "Hatod",
+      "Apollo DB City"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-081",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "N-16",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Mhow Naka",
+    "endStop": "Navlakha",
+    "stops": [
+      "Mhow Naka",
+      "Navlakha"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-082",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "N-16",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Navlakha",
+    "endStop": "Mhow Naka",
+    "stops": [
+      "Navlakha",
+      "Mhow Naka"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-083",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "N-8",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "New Bada Bangarda",
+    "endStop": "Rajwada",
+    "stops": [
+      "New Bada Bangarda",
+      "Rajwada"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-084",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "N-8",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Rajwada",
+    "endStop": "New Bada Bangarda",
+    "stops": [
+      "Rajwada",
+      "New Bada Bangarda"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-085",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-11",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Pitra Parvat",
+    "endStop": "Tejajinagar",
+    "stops": [
+      "Pitra Parvat",
+      "Tejajinagar"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-086",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-11",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Tejajinagar",
+    "endStop": "Pitra Parvat",
+    "stops": [
+      "Tejajinagar",
+      "Pitra Parvat"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-087",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-17",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Lakhani Bypass",
+    "endStop": "Trimala Pride",
+    "stops": [
+      "Lakhani Bypass",
+      "Trimala Pride"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-088",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-17",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Trimala Pride",
+    "endStop": "Lakhani Bypass",
+    "stops": [
+      "Trimala Pride",
+      "Lakhani Bypass"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-089",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-25",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Indorama",
+    "endStop": "Indore Rly Station",
+    "stops": [
+      "Indorama",
+      "Indore Rly Station"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-090",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-25",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Indore Rly Station",
+    "endStop": "Indorama",
+    "stops": [
+      "Indore Rly Station",
+      "Indorama"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-091",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-4",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "A P J Abdul Kalam University",
+    "endStop": "Reti Mandi Square",
+    "stops": [
+      "A P J Abdul Kalam University",
+      "Reti Mandi Square"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-092",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-4",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Reti Mandi Square",
+    "endStop": "A P J Abdul Kalam University",
+    "stops": [
+      "Reti Mandi Square",
+      "A P J Abdul Kalam University"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-093",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-5",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Arvindo",
+    "endStop": "Mhow Naka",
+    "stops": [
+      "Arvindo",
+      "Mhow Naka"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-094",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-5",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Mhow Naka",
+    "endStop": "Arvindo",
+    "stops": [
+      "Mhow Naka",
+      "Arvindo"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-095",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-7",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "Mushakhedi",
+    "endStop": "Pitra Parvat",
+    "stops": [
+      "Mushakhedi",
+      "Pitra Parvat"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-096",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-7",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "Pitra Parvat",
+    "endStop": "Mushakhedi",
+    "stops": [
+      "Pitra Parvat",
+      "Mushakhedi"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-097",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-9",
+    "vehicleType": "City Bus",
+    "direction": "outbound",
+    "startStop": "California City",
+    "endStop": "CAT",
+    "stops": [
+      "California City",
+      "CAT"
+    ],
+    "stopsVerified": false
+  },
+  {
+    "routeId": "IND-098",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "operator": "AICTSL",
+    "trackingApp": "Chalo",
+    "busNumber": "R-9",
+    "vehicleType": "City Bus",
+    "direction": "return",
+    "startStop": "CAT",
+    "endStop": "California City",
+    "stops": [
+      "CAT",
+      "California City"
+    ],
+    "stopsVerified": false
+  }
+]
